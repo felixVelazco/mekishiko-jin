@@ -12,9 +12,12 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://felixvelazco.github.io/mekishiko-jin/"
+baseURL = "https://felixvelazco.github.io/"
 RelativeURLs=true
 CanonifyURLs=true
+
+
+
 
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
