@@ -13,6 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://felixvelazco.github.io/mekishiko-jin/"
+RelativeURLs=true
+CanonifyURLs=true
+
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Mekishiko-jin"
